@@ -1,1 +1,1 @@
-FROM centos/python-27-centos7
+FROM openjdk:8-alpine
